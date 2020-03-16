@@ -1,0 +1,3 @@
+link for rotten fruits and fresh fruits
+
+https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification
